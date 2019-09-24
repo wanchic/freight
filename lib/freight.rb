@@ -1,5 +1,7 @@
 require "freight/version"
 
 module Freight
-  # Your code goes here...
+  def info
+    "Welcome to Freight!"
+  end
 end
